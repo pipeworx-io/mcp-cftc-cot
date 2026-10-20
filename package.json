@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-cftc-cot",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "CFTC Commitment of Traders (COT) MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-ce9c2e4baf64a1ba3a5c81d9273d8946b0597b9bf154cd2421b461e1137e9cd7",
-    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
+    "sourceHash": "v1-4185266b6234b6a30d6bf3af9b8cf0fcf4adb0fc4212534b34effbc055426604",
+    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
   }
 }
