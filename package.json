@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-cftc-cot",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "CFTC Commitment of Traders (COT) MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "cftc-cot",
     "gatewaySlug": "cftc-cot",
-    "sourceHash": "v1-8b342d81a23fd4f704fea238eae142db44686a02326a2d440ec67b9c0220f8c5",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-5d74624d08e439f36cf8b4a563a798ff8d846d5bd7a0c05fdcafee05fbd33e90",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
